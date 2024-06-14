@@ -1,5 +1,6 @@
 # 🚗 ParkingLot Manager Dapp
 💸 A Simple Web3 application for managing car parking at a parking lot using Ethereum smart contracts.
+![image](https://github.com/gurleenkaur0703/module2_ethereum/assets/170515862/1df3b804-a1bf-4aba-aeef-9d5b04ffbc63)
 
 ## Description
 This is an intuitive web3 application created using React, Solidity, and the Ethers.js library. It leverages the power of Ethereum networks to provide a decentralized experience for managing car parking at a parking lot. The application is built using Solidity smart contracts, the powerful Ethers.js library, and uses the user-friendly MetaMask wallet extension.
