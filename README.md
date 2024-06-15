@@ -21,7 +21,7 @@ MetaMask is a popular browser extension wallet that allows users to manage Ether
 Hardhat is a development environment and testing framework for Ethereum smart contracts. It provides tools for compiling, deploying, and testing contracts. Hardhat is used to compile and deploy the ParkingLot smart contract in this project. Discover Hardhat.
 
 ## Installation ⬇️
-#### Follow these steps to get the project up and running 🏗️
+Follow these steps to get the project up and running 🏗️
 #### Download or clone the project.
 #### Install the dependencies by running npm install.
 #### Start the local blockchain using Hardhat by running npx hardhat node.
@@ -51,8 +51,8 @@ Hardhat is a development environment and testing framework for Ethereum smart co
 To use the application, follow these instructions:
 
 #### After connecting MetaMask to the Hardhat local network, connect your wallet with the application.
-#### You can park or unpark cars using the provided input fields and buttons.
+#### You can park or remove cars using the provided input fields and buttons.
 #### Enter the car license plate number in the input field and click the "Park Car" button to park a car.
-#### Click the "Unpark Car" button to unpark a car.
+#### Click the "Remove Car" button to unpark a car.
 #### Confirm the transaction in MetaMask.
-#### The car details will be updated, showing the parking spot number and the car license plate number.
+#### The car details will be updated, showing the parking space number of the respective cars
