@@ -3,7 +3,7 @@ pragma solidity ^0.8.9;
 
 contract ParkingLot {
     address public owner;
-    uint public totalSpaces = 3;
+    uint public totalSpaces = 5;
     uint public totalCars = 0;
 
     constructor() {
